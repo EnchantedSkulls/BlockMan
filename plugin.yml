@@ -1,6 +1,6 @@
 name: BlockMan
 author: SuperMarcus
-api: 1.10.0
+api: 1.13.0
 version: 1.0.0
 main: supermarcus\blockman\BlockMan
 description: Ha, a block man
@@ -17,5 +17,5 @@ permissions:
 commands:
   blockman:
     description: "Create a block man!"
-    usage: "/blockman [command] [args]"
+    usage: "/blockman [MCommand] [Args]"
     permission: blockman.command
